@@ -1,19 +1,101 @@
-Gizlilik Politikası
+# Gizlilik Politikası
 
-HealthSync: İlaç Hatırlatıcı uygulaması olarak, kullanıcılarımızın verilerine karşı en yüksek düzeyde gizlilik ve güvenlik taahhüdüyle hareket etmekteyiz. Bu gizlilik politikası, uygulamamızın Android ve iOS platformlarında sunduğu hizmetler kapsamında kullanıcı verilerine dair yaklaşımımızı, veri işlenmeyen durumları ve güvenlik prensiplerimizi kapsamlı ve şeffaf bir şekilde açıklamak amacıyla hazırlanmıştır.
+**Son Güncelleme:** 25 Kasım 2025
 
-HealthSync uygulamasında kullanıcıya ait hiçbir kişisel sağlık verisi, kullanım davranışı, görsel içerik ya da cihaz verisi geliştirici sunucularında toplanmaz, işlenmez veya depolanmaz. Kullanıcıya ait tüm ilaç listeleri, dozaj planları, randevu hatırlatmaları, adım sayıları, su tüketimi kayıtları ve diğer sağlıkla ilişkili bilgiler yalnızca kullanıcının kendi cihazında, lokal depolama alanında tutulur. Bu veriler hiçbir şekilde üçüncü taraf sistemlerle senkronize edilmez, dış sunuculara aktarılmaz veya bulut tabanlı veritabanlarında arşivlenmez. Kullanıcının yüklemiş olduğu ilaç fotoğrafları, kişisel notlar ve tıbbi raporlar da dahil olmak üzere tüm içerikler yalnızca cihaz belleğinde kalır. Bu sayede, kullanıcı verileri üzerinde tam denetim kullanıcının kendisindedir ve herhangi bir güvenlik ihlali riski en aza indirilmiş olur.
+---
 
-HealthSync uygulamasında sunucu taraflı tek veri etkileşimi, kullanıcıların Google hesaplarıyla oturum açabilmesi amacıyla gerçekleştirilen kimlik doğrulama işlemidir. Bu işlem dışında hiçbir kişisel veri uygulama geliştiricisiyle paylaşılmaz ve merkezi olarak saklanmaz. Kimlik doğrulama süreci yalnızca güvenli giriş sağlamak ve kullanıcı hesaplarını tanımlamak amacıyla kullanılır. Uygulama içerisinde gerçekleştirilen tüm işlemler cihaz üzerinde gerçekleşir ve kullanıcıların bilgileri üçüncü şahıslarla paylaşılmaz.
+## 1. Uygulamanın Amacı
 
-Uygulama, fonksiyonlarını tam olarak yerine getirebilmek amacıyla bazı sistem izinlerine ihtiyaç duyabilir. Bu izinler; internet erişimi, bildirim gönderimi, hassas zamanlama, konum servislerine erişim, kamera kullanımı ve adım sayımı gibi özellikleri kapsar. Her bir izin yalnızca kullanıcıdan alınan açık onay sonrasında aktif hale gelir. Kullanıcılar diledikleri zaman uygulama ayarlarından bu izinleri devre dışı bırakabilir veya yeniden yapılandırabilir. Bu sayede kullanıcı, uygulama üzerinde tam kontrol sahibi olur.
+HealthSync: İlaç Hatırlatıcı, kullanıcıların ilaç kullanım programlarını takip etmelerine, dozaj hatırlatmaları almalarına, su tüketimini izlemelerine ve nöbetçi eczane bilgilerine ulaşmalarına yardımcı olmak amacıyla geliştirilmiş bir sağlık ve fitness uygulamasıdır.
 
-Reklam gösterimi için yalnızca Google AdMob hizmeti kullanılmaktadır. Bu platform üzerinden gösterilen reklamlar için kullanıcıdan açık rıza alınması halinde reklam kişiselleştirme aktif hale gelir. Eğer kullanıcı bu rızayı vermezse, yalnızca genel reklamlar görüntülenir. Uygulama hiçbir şekilde reklam verilerini saklamaz, işlemeye tabi tutmaz ve üçüncü şahıslarla paylaşmaz. Ayrıca uygulama, pazarlama amacıyla e-posta göndermez, ticari bildirimlerde bulunmaz veya reklam bazlı kullanıcı profili oluşturmaz.
+**Önemli Not:** Bu uygulama tıbbi teşhis, tedavi veya danışmanlık hizmeti sunmamaktadır. Sağlık konularında her zaman bir sağlık profesyoneline danışmanız önerilir.
 
-Gizlilik politikamız zaman zaman yasal zorunluluklar, teknolojik gelişmeler veya kullanıcı geri bildirimleri doğrultusunda güncellenebilir. Yapılacak önemli güncellemeler hakkında kullanıcılar uygulama içi bildirim ile önceden bilgilendirilir ve gerekiyorsa yeniden açık rızaları alınır. Küçük çaplı düzenlemeler ise yalnızca belge tarihinin güncellenmesiyle sınırlı kalır.
+---
 
-HealthSync uygulaması; Türkiye Cumhuriyeti'nin Kişisel Verilerin Korunması Kanunu (KVKK), Avrupa Birliği’nin Genel Veri Koruma Tüzüğü (GDPR), Amerika Birleşik Devletleri’nde geçerli olan HIPAA ve COPPA düzenlemeleri başta olmak üzere ulusal ve uluslararası birçok veri koruma yasasına uyum göstermeyi ilke edinmiştir. Bunun yanında uygulamanın işleyişi, Google Play Developer Policy ve App Store Review Guidelines çerçevesinde titizlikle sürdürülmektedir. Uygulamanın tasarımı, veri toplamadığı yapısıyla kullanıcı gizliliğini merkezine alır. Sunucu taraflı veri işlenmemesi, uygulamanın sadece cihaz üzerinde çalışması ve dışa kapalı sistem mimarisi, kullanıcı güvenliğini artıran temel özelliklerdir.
+## 2. Veri Toplama ve Saklama
 
-Kullanıcılarımızın verilerine olan yaklaşımımız tamamen güven esaslıdır. Sağlık gibi hassas bir alanda hizmet verirken, kullanıcı verilerini herhangi bir ticari kazanç, analiz, depolama veya reklam hedefleme amacıyla kullanmamak bizim için bir ilke değil, bir yükümlülüktür. Bu nedenle HealthSync, kullanıcıya yalnızca sunduğu hatırlatma ve takip özellikleriyle hizmet eder; veri üzerinde kontrolü daima kullanıcıya bırakır.
+### Cihazda Lokal Olarak Saklanan Veriler:
+- İlaç isimleri, dozaj bilgileri ve hatırlatma saatleri
+- Su tüketimi kayıtları
+- Randevu notları
+- Kullanıcı tercihleri ve ayarlar
 
-© 2025 Yunus Balçok – HealthSync: İlaç Hatırlatıcı. Tüm hakları saklıdır.
+Yukarıdaki tüm veriler **YALNIZCA kullanıcının cihazında** saklanır. Bu veriler geliştirici sunucularına gönderilmez, üçüncü taraflarla paylaşılmaz ve bulut sistemlerinde depolanmaz.
+
+### Sunucu Taraflı İşlemler:
+- Google hesabı ile kimlik doğrulama (oturum açma işlemi)
+- Nöbetçi eczane bilgileri (üçüncü parti API üzerinden)
+
+Bu işlemler dışında hiçbir kişisel veri sunuculara aktarılmaz.
+
+---
+
+## 3. Uygulama İzinleri
+
+Uygulamanın düzgün çalışması için aşağıdaki izinlere ihtiyaç duyulmaktadır:
+
+| İzin | Açıklama |
+|------|----------|
+| 📱 **Bildirim Gönderme** | İlaç alma saatlerinizde size hatırlatma bildirimi göndermek için kullanılır. |
+| 🔔 **Alarm Kurma** | İlaç hatırlatmalarınızın tam belirlediğiniz saatte çalmasını sağlar. |
+| 🌐 **İnternet Bağlantısı** | Google ile giriş yapabilmeniz ve nöbetçi eczane bilgilerini görüntüleyebilmeniz için gereklidir. |
+| 🔋 **Arka Planda Çalışma** | Telefonunuz kapalıyken veya uyku modundayken bile hatırlatmalarınızın çalmasını sağlar. |
+
+> **Not:** Bu uygulama konumunuza erişmez, kameranızı kullanmaz ve sağlık sensörlerinizi okumaz.
+
+---
+
+## 4. Üçüncü Taraf Hizmetler
+
+### Reklamlar
+Uygulama içinde Google tarafından sağlanan reklamlar gösterilmektedir. Kişiselleştirilmiş reklamlar için onayınız istenir; onay vermezseniz yalnızca genel reklamlar gösterilir.
+
+### Google ile Giriş
+Google hesabınızla güvenli giriş yapabilirsiniz. Yalnızca adınız ve e-posta adresiniz alınır, bu bilgiler oturum yönetimi için kullanılır.
+
+### Nöbetçi Eczane Bilgileri
+Nöbetçi eczane bilgileri harici bir hizmet üzerinden alınır. Bu işlem için konumunuz kullanılmaz; il ve ilçe seçimini siz yaparsınız.
+
+---
+
+## 5. Veri Güvenliği
+
+- ✅ Tüm verileriniz telefonunuzda güvenli şekilde saklanır
+- ✅ İnternet bağlantıları şifreli olarak yapılır
+- ✅ Verileriniz başkalarıyla paylaşılmaz
+- ✅ Kullanım alışkanlıklarınız analiz edilmez
+
+---
+
+## 6. Kullanıcı Hakları
+
+Kullanıcılar aşağıdaki haklara sahiptir:
+
+- **Verilerini silme:** Uygulama verilerini cihaz ayarlarından temizleyebilirsiniz
+- **İzinleri yönetme:** Sistem ayarlarından izinleri istediğiniz zaman açıp kapatabilirsiniz
+- **Hesap silme:** Google hesabı bağlantısını kaldırarak çıkış yapabilirsiniz
+- **Bilgi edinme:** destekhealthsync@gmail.com adresinden sorularınızı iletebilirsiniz
+
+---
+
+## 7. Yasal Uyumluluk
+
+HealthSync uygulaması, Türkiye ve uluslararası veri koruma düzenlemelerine uygun olarak geliştirilmiştir. Google Play Store kurallarına tam uyumluluk sağlanmaktadır.
+
+---
+
+## 8. Politika Güncellemeleri
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler yapıldığında kullanıcılar uygulama içi bildirim ile bilgilendirilecektir. Güncellenmiş politikayı kabul etmek için uygulamayı kullanmaya devam etmeniz yeterlidir.
+
+---
+
+## 9. İletişim
+
+Gizlilik politikamız veya veri işleme uygulamalarımız hakkında sorularınız için:
+
+📧 **destekhealthsync@gmail.com**
+
+---
+
+© 2025 HealthSync: İlaç Hatırlatıcı. Tüm hakları saklıdır.
